@@ -8,7 +8,7 @@ SQL, Python, Pandas, and Power BI.
 - 📈 Analyze student marks.
 - 🧮 Calculate average marks.
 - 🏆 Identify top-performing students.
-- 📅 Analyze attendance.
+- 📅 Analyze attendance.  
 - 🔍 Find missing values and duplicates.
 - 📊 Create a Power BI dashboard.
 
