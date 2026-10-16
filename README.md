@@ -29,6 +29,7 @@ subject marks, and attendance.
 Python and Pandas are used to check missing values, remove duplicates,
 and prepare the data for analysis.
 
+
 ## 🔎 SQL Analysis
 SQL is used to filter, sort, and summarize student records.
 
