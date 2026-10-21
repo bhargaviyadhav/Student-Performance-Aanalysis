@@ -1,0 +1,25 @@
+1.I Display only students name. 
+
+SELECT Name
+FROM student_performance;
+
+2.I Find students with maths marks above 70.
+
+SELECT Maths
+FROM student_performance
+WHERE Maths>70;
+
+3.count unique student names.
+
+SELECT COUNT(DISTINCT Name)
+FROM student_performance;
+
+4.Find the minimum English mark.
+
+SELECT MIN(English)
+FROM student_performance;
+
+5.display all student records.
+
+SELECT *
+FROM student_performance;
