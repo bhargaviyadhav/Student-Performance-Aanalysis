@@ -1,10 +1,10 @@
-﻿Student_ID,Name,Gender,Class,Maths,Science,English,Attendance,Total_mark,Averge_Mark,,,,,,
-101,Ravi,Male,10,72,87,86,96,245,81.67,,,,,,
-102,Priya,Female,10,90,95,88,95,273,91,,,,,,
-104,kumar,Female,NULL,67,92,82,92,241,80.33,,,,,,
-105,Vani,Female,10,81,61,71,90,213,71.00,,,,,,
-105,Rahul,Male,9,91,50,79,61,220,73.33,,,,,,
-106,kumar,Female,9,95,91,81,51,267,89.00,,,,,,
+﻿Student_ID,Name,Gender,Class,Maths,Science,English,Attendance,Total_mark,Averge_Mark
+101,Ravi,Male,10,72,87,86,96,245,81.67
+102,Priya,Female,10,90,95,88,95,273,91
+104,kumar,Female,NULL,67,92,82,92,241,80.33
+105,Vani,Female,10,81,61,71,90,213,71.00
+105,Rahul,Male,9,91,50,79,61,220,73.33
+106,kumar,Female,9,95,91,81,51,267,89.00
 107,Moni,Female,9,76,93,93,88,262,87.33,,,,,,
 108,Karthik,Male,9,87,90,NULL,65,177,88.50,,,,,,
 109,Raju,Male,9,94,54,98,45,246,82.00,,,,,,
