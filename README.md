@@ -22,8 +22,18 @@ SQL, Python, Pandas, and Power BI.
 - 🌐 GitHub
 
 ## 📂 Dataset
-The project uses a dataset of 100 students containing student details,
-subject marks, and attendance.
+The project uses a dataset of 100 students containing student details
+- Student ID
+- Student Name
+- Gender
+- Class
+- Maths
+- Science
+- English
+- Attendance
+- Total Marks (Maths + Science + English)
+- Average Mark
+
 
 ## 🧹 Data Cleaning
 Python and Pandas are used to check missing values, remove duplicates,
