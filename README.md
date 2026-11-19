@@ -36,9 +36,12 @@ The project uses a dataset of 100 students containing student details
 
 
 ## 🧹 Data Cleaning
-Python and Pandas are used to check missing values, remove duplicates,
-and prepare the data for analysis.
-
+- Checked the first five rows using -df.head().
+- Identified missing values using- df.isnull().sum().
+- Checked dataset information using- df.info().
+- Removing missing values-df.dropna().
+- Handling missing values-df.fillna().
+- Checked column names-df.column.
 
 ## 🔎 SQL Analysis
 SQL is used to filter, sort, and summarize student records.
